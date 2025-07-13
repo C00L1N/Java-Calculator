@@ -2,17 +2,17 @@
 This is a simple console-based calculator written in Java. It supports basic arithmetic operations like
 addition, subtraction, multiplication, and division. It also includes input validation to prevent 
 crashes when users enter invalid values
----
+
 ## 📁 File
 - `C00L1N_1.java` - Main Program File
----
+  
 ## 🚀 How to Run
 1. Make sure you have Java installed on your computer
 2. Compile the code:
    `javac C00L1N_1.java`
 3. Run the program:
    `java C00L1N_1`
----
+
 ## ⚙️ Features
 - Takes two integer inputs from the user
 - Validates non-integer input (e.g., letters, symbols)
@@ -22,14 +22,14 @@ crashes when users enter invalid values
   - ➖ Subtraction
   - ✖️ Multiplication
   - ➗ Division
----
+
 ## 🧠 What I Learned
 - How to use `Scanner` for user input
 - Handling input errors with `try-catch` and `InputMismatchException`
 - Validating user input through loops
 - Structuring a console-based Java program
 - Preventing runtime errors (e.g., dividing by zero)
----
+
 ## 🔍 Example Output
 ```
 Enter First Number : hello
